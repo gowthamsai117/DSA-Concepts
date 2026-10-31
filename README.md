@@ -1,5 +1,5 @@
 # DSA-Concepts
 
-# Sorting
+## Sorting
 
 - [Selection Sort](Selection_sort.py)
