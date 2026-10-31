@@ -2,4 +2,4 @@
 
 ## Sorting
 
-- [Selection Sort](Selection_sort.py)
+- [Selection Sort](Sorting/Selection_sort.py)
