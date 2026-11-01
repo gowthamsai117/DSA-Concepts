@@ -4,3 +4,4 @@
 
 - [Selection Sort](Sorting/Selection_sort.py)
 - [Bubble Sort](Sorting/Bubble_Sort.py)
+- [Insertion Sort](Sorting/Insertion_Sort.py)
